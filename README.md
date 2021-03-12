@@ -24,7 +24,7 @@ It contains many animals and plants, some can be friends, some can be natural en
 
 ## To-do
 
-- [ ] Research things about WFC and its possibilities on CNN or GAN
+- [ ] Research things about WFC and its possibilities on CNN, GAN or RNN
 
 ## Progress
 
