@@ -22,6 +22,7 @@ It contains many animals and plants, some can be friends, some can be natural en
 - Solve the block one by one using prediction
 - May involve time-series network as well
 - Similar to [Conways Game of Life](https://academo.org/demos/conways-game-of-life/)
+- Possible to use RNNs like GRU(Gated Reccurrent Units) or LSTM
 
 ## To-do
 
