@@ -10,6 +10,8 @@ Visualized or real data about natural resources, atmosphere and environment on a
 
 Example : https://www.kaggle.com/peijenlin/surviving-mars-maps
 
+[Human life sustainability set](https://www.kaggle.com/jaimetrickz/surviving-on-mars)
+
 
 
 # What data does the dataset contain?
