@@ -11,6 +11,10 @@ Yichen Dou - 101003897
 The basic idea is to implement the Wave Function Collapse (WFC) in a neural network, researching how it works, its performance and its accuracy. Users should gain some controls over the inputs to generate procedural patterns
 
 ## Research Questions
+### Planetary Map Generator for Sustainable Life
+[Map Dataset](https://www.kaggle.com/peijenlin/surviving-mars-maps?select=MapData-Evans-GP.csv)
+[Life sustainablility set](https://www.kaggle.com/jaimetrickz/surviving-on-mars)
+
 ### City Builder
 A city builder system that uses a pattern image(height graph) to generate the city, where each module in the city is an unit that containing a height value and its possible neighbors (restricted). The application should generate a new matrix in which each unit is solved by WFC algorithm to get its correct neighbors and is maped into its corresponding height area in the pattern as much as possible
 - Without restriction of neighbors, this city builder is just a simple unsupervised question, the model takes a city module's height as input and outputs its x and y coordinates on a map
