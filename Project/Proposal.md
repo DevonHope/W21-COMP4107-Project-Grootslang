@@ -20,9 +20,15 @@ Temperature, resources, topography at a specific latitude, longitude and altitud
 
 # What techniques do you plan to use to approach the problem?
 
-
+We will first use unsupervised learning in guiding learning features and finding correlations of possible features in the dataset, plotting maps and graphs scientifically. Then we use given labels such as difficulties or newly created features, such as possibilities to build a city, as labels to start training a convolutional neural network to learn the planet. Then we will try different models that best predict what are needed in interstellar colonization
 
 
 
 # What additional research do you need to conduct
+
+Given inputs of data, we need to determine which area on the planet best suits humanity
+
+The research may consider resource depletion and time-changing effects in the model
+
+Some resources are essential in building cities, so a model should predict possibilities of the appearance of a resource in given locations
 
