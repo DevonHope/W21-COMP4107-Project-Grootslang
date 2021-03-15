@@ -1,3 +1,12 @@
+# W21-COMP4107-Project-Grootslang
+
+Group #: 28
+
+# Members
+
+Yichen Duo - 101003897
+Devon Hope - 101038344
+
 # What is the research question you are trying to answer?
 
 Can neural network algorithms help interstellar colonization?
