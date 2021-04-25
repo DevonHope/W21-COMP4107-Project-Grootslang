@@ -1,2 +1,2 @@
-model_checkpoint_path: "test_coat_cnn_combined.ckpt"
-all_model_checkpoint_paths: "test_coat_cnn_combined.ckpt"
+model_checkpoint_path: "final_cnn_combined_2.ckpt"
+all_model_checkpoint_paths: "final_cnn_combined_2.ckpt"

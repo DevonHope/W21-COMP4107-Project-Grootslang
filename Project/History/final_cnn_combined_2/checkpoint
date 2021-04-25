@@ -1,0 +1,2 @@
+model_checkpoint_path: "final_cnn_combined_2_lr_0.016.ckpt"
+all_model_checkpoint_paths: "final_cnn_combined_2_lr_0.016.ckpt"
